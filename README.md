@@ -11,4 +11,5 @@ I have a basic coding knowledge and i have interest in learning python.
 My father name is Rajesh.
 My mother name is Sheela.
 my father occupation is bunk cashier and my mother occupation is home maker. 
+My role model is my father because of is simplicity, knowledge etc..
 THANK YOU SIR FOR SPENDING TIME FOR READING MY DETAILS
