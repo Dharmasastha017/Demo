@@ -1,8 +1,8 @@
 #personal info:
-My name is Dharmasastha R
-Native:ooty
-collage:kgisl institution of technology
-course:CSE
+My name is Dharmasastha R.
+Native:ooty.
+collage:kgisl institution of technology.
+course:CSE.
 I completed my higer secondary in svgv higher secondary school ,karamadai.
 I had no idea in choosing CSE Stream .I had a idea to study ECE and crack gate exam.
 But in counselling i got this stream and collage and now i am happy with my collage and course .
